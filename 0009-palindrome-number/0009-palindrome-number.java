@@ -9,11 +9,6 @@ class Solution {
             reverse = reverse * 10 + rem;
         }
 
-        // if(reverse != dup){
-        //     return false;
-        // }
         return reverse != dup ? false : true;
-
-        // return true;
     }
 }
