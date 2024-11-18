@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bmukesh23/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bmukesh23/DSA/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/bmukesh23/DSA/tree/master/0792-binary-search) |
+| [1755-defuse-the-bomb](https://github.com/bmukesh23/DSA/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bmukesh23/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bmukesh23/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1755-defuse-the-bomb](https://github.com/bmukesh23/DSA/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bmukesh23/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
