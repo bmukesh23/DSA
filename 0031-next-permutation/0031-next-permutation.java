@@ -18,9 +18,7 @@ class Solution {
 
         for(int i = n - 1; i > index; i--){
             if(nums[i] > nums[index]){
-                int temp = nums[i];
-                nums[i] = nums[index];
-                nums[index] = temp;
+                swap(nums, i, index);
                 break;
             }
         }
@@ -31,12 +29,15 @@ class Solution {
 
     public static void reverseArray(int[] arr, int start, int end){
         while(start < end){
-            int temp = arr[start];
-            arr[start] = arr[end];
-            arr[end] = temp;
-
+            swap(arr, start, end);
             start++;
             end--;
         }
+    }
+
+    public static void swap(int[] arr, int s, int e){
+        int temp = arr[s];
+        arr[s] = arr[e];
+        arr[e] = temp;
     }
 }
