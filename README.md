@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bmukesh23/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/bmukesh23/DSA/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bmukesh23/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/bmukesh23/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bmukesh23/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bmukesh23/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bmukesh23/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/bmukesh23/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bmukesh23/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/bmukesh23/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Union Find
 |  |
 | ------- |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/bmukesh23/DSA/tree/master/0073-set-matrix-zeroes) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/bmukesh23/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
