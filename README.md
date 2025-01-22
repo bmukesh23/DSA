@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bmukesh23/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bmukesh23/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bmukesh23/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/bmukesh23/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bmukesh23/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bmukesh23/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bmukesh23/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bmukesh23/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/bmukesh23/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/bmukesh23/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
