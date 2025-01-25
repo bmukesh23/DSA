@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bmukesh23/DSA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/bmukesh23/DSA/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/bmukesh23/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bmukesh23/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/bmukesh23/DSA/tree/master/0686-repeated-string-match) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/bmukesh23/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
