@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bmukesh23/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/bmukesh23/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bmukesh23/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/bmukesh23/DSA/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/bmukesh23/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bmukesh23/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bmukesh23/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/bmukesh23/DSA/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/bmukesh23/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bmukesh23/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/bmukesh23/DSA/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/bmukesh23/DSA/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/bmukesh23/DSA/tree/master/0686-repeated-string-match) |
 ## Sorting
