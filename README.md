@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/bmukesh23/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/bmukesh23/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/bmukesh23/DSA/tree/master/0792-binary-search) |
+| [1364-tuple-with-same-product](https://github.com/bmukesh23/DSA/tree/master/1364-tuple-with-same-product) |
 | [1755-defuse-the-bomb](https://github.com/bmukesh23/DSA/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bmukesh23/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/bmukesh23/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/bmukesh23/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bmukesh23/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bmukesh23/DSA/tree/master/0268-missing-number) |
+| [1364-tuple-with-same-product](https://github.com/bmukesh23/DSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bmukesh23/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Dynamic Programming
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bmukesh23/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bmukesh23/DSA/tree/master/0229-majority-element-ii) |
+| [1364-tuple-with-same-product](https://github.com/bmukesh23/DSA/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bmukesh23/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Simulation
 |  |
