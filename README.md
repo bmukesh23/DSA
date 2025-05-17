@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bmukesh23/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/bmukesh23/DSA/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bmukesh23/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2050-count-good-numbers](https://github.com/bmukesh23/DSA/tree/master/2050-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bmukesh23/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Array
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/bmukesh23/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bmukesh23/DSA/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/bmukesh23/DSA/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/bmukesh23/DSA/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
