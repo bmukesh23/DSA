@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bmukesh23/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/bmukesh23/DSA/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bmukesh23/DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/bmukesh23/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/bmukesh23/DSA/tree/master/2050-count-good-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bmukesh23/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Array
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bmukesh23/DSA/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/bmukesh23/DSA/tree/master/0686-repeated-string-match) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bmukesh23/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2032-largest-odd-number-in-string](https://github.com/bmukesh23/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/bmukesh23/DSA/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bmukesh23/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/bmukesh23/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
