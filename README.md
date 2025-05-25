@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bmukesh23/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bmukesh23/DSA/tree/master/0268-missing-number) |
 | [1364-tuple-with-same-product](https://github.com/bmukesh23/DSA/tree/master/1364-tuple-with-same-product) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/bmukesh23/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bmukesh23/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Dynamic Programming
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bmukesh23/DSA/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/bmukesh23/DSA/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/bmukesh23/DSA/tree/master/0812-rotate-string) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/bmukesh23/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bmukesh23/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/bmukesh23/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bmukesh23/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bmukesh23/DSA/tree/master/0229-majority-element-ii) |
 | [1364-tuple-with-same-product](https://github.com/bmukesh23/DSA/tree/master/1364-tuple-with-same-product) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/bmukesh23/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/bmukesh23/DSA/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Simulation
 |  |
