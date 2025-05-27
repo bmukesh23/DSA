@@ -17,10 +17,10 @@ class Solution {
         ListNode evenHead = even; 
 
         while (even != null && even.next != null) {
-            odd.next = even.next;
+            odd.next = odd.next.next;
+            even.next = even.next.next;
+            
             odd = odd.next;
-
-            even.next = odd.next;
             even = even.next;
         }
         odd.next = evenHead;
