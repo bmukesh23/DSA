@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/bmukesh23/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bmukesh23/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/bmukesh23/DSA/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/bmukesh23/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bmukesh23/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/bmukesh23/DSA/tree/master/0792-binary-search) |
 | [1364-tuple-with-same-product](https://github.com/bmukesh23/DSA/tree/master/1364-tuple-with-same-product) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bmukesh23/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bmukesh23/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bmukesh23/DSA/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/bmukesh23/DSA/tree/master/0503-next-greater-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bmukesh23/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bmukesh23/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/bmukesh23/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
