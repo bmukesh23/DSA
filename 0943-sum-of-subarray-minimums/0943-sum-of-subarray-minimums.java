@@ -5,7 +5,6 @@ class Solution {
         int[] prevLess = new int[n];
         int[] nextLess = new int[n];
 
-        // Previous less element count
         Stack<Integer> stack = new Stack<>();
         for (int i = 0; i < n; i++) {
             while (!stack.isEmpty() && arr[stack.peek()] > arr[i]) {
@@ -14,11 +13,8 @@ class Solution {
             prevLess[i] = stack.isEmpty() ? (i + 1) : (i - stack.peek());
             stack.push(i);
         }
-
-        // Clear stack for next computation
         stack.clear();
 
-        // Next less element count
         for (int i = n - 1; i >= 0; i--) {
             while (!stack.isEmpty() && arr[stack.peek()] >= arr[i]) {
                 stack.pop();
