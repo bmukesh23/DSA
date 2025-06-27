@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bmukesh23/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/bmukesh23/DSA/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bmukesh23/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2227-sum-of-subarray-ranges](https://github.com/bmukesh23/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/bmukesh23/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/bmukesh23/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bmukesh23/DSA/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bmukesh23/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bmukesh23/DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/bmukesh23/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/bmukesh23/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
 | ------- |
@@ -404,4 +406,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bmukesh23/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bmukesh23/DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/bmukesh23/DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/bmukesh23/DSA/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
