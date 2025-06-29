@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/bmukesh23/DSA/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/bmukesh23/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bmukesh23/DSA/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/bmukesh23/DSA/tree/master/0402-remove-k-digits) |
 | [0686-repeated-string-match](https://github.com/bmukesh23/DSA/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/bmukesh23/DSA/tree/master/0812-rotate-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/bmukesh23/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/bmukesh23/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/bmukesh23/DSA/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bmukesh23/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/bmukesh23/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/bmukesh23/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bmukesh23/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bmukesh23/DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/bmukesh23/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bmukesh23/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bmukesh23/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/bmukesh23/DSA/tree/master/0735-asteroid-collision) |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/bmukesh23/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/bmukesh23/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bmukesh23/DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/bmukesh23/DSA/tree/master/0943-sum-of-subarray-minimums) |
