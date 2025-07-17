@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bmukesh23/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bmukesh23/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/bmukesh23/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0435-non-overlapping-intervals](https://github.com/bmukesh23/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bmukesh23/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/bmukesh23/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/bmukesh23/DSA/tree/master/0493-reverse-pairs) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/bmukesh23/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmukesh23/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/bmukesh23/DSA/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/bmukesh23/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0943-sum-of-subarray-minimums](https://github.com/bmukesh23/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/bmukesh23/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/bmukesh23/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bmukesh23/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bmukesh23/DSA/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/bmukesh23/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bmukesh23/DSA/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bmukesh23/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/bmukesh23/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bmukesh23/DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/bmukesh23/DSA/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/bmukesh23/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/bmukesh23/DSA/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/bmukesh23/DSA/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/bmukesh23/DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
