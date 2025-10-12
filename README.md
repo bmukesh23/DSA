@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/bmukesh23/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/bmukesh23/DSA/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/bmukesh23/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bmukesh23/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/bmukesh23/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/bmukesh23/DSA/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bmukesh23/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -266,12 +267,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bmukesh23/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/bmukesh23/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/bmukesh23/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bmukesh23/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/bmukesh23/DSA/tree/master/1755-defuse-the-bomb) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bmukesh23/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/bmukesh23/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/bmukesh23/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/bmukesh23/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Database
 |  |
