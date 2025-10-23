@@ -1,12 +1,22 @@
 class Solution {
     public int numSubarraysWithSum(int[] nums, int goal) {
+        return countNumSubarrayWithSum(nums, goal) - countNumSubarrayWithSum(nums, goal - 1);
+    }
+
+    public int countNumSubarrayWithSum(int[] arr, int k){
+        if(k < 0) return 0;
+        
+        int left = 0;
         int count = 0;
-        for (int start = 0; start < nums.length; start++) {
-            int sum = 0;
-            for (int end = start; end < nums.length; end++) {
-                sum += nums[end];
-                if (sum == goal) count++;
+        int sum = 0;
+
+        for(int right = 0; right < arr.length; right++){
+            sum += arr[right];
+            while(sum > k){
+                sum -= arr[left];
+                left++;
             }
+            count += (right - left + 1);
         }
         return count;
     }
